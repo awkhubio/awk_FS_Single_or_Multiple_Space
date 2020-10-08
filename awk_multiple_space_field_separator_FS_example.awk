@@ -1,5 +1,5 @@
 # Created by Tony Casanova 
-# Example of using a single sapce or multiple spaces in the awk FS variable.
+# Example of using a single space or multiple spaces in the awk FS variable.
 #
 BEGIN{
 FS="[[:space:]]+"
